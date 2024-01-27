@@ -1,1 +1,2 @@
-# dmit-2504-assignment-2-user-input-TompyxP
+# Android Development
+## Assignment 2 - User Input
