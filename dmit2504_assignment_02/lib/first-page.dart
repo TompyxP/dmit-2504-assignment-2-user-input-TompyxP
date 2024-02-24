@@ -169,7 +169,7 @@ class MyFirstPageState extends State<MyFirstPage> {
                                         width: 10,
                                       ),
                                       Text(
-                                        'Hey There, Your name is $firstName',
+                                        'Hey $firstName',
                                         style: TextStyle(
                                             color: Colors.white,
                                             fontSize: 15.0),
